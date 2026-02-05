@@ -26,6 +26,3 @@ Then it predicts marks for new study hours.
 - pandas
 - scikit-learn
 - matplotlib
-
-```bash
-pip install pandas scikit-learn matplotlib
